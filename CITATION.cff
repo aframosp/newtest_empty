@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: Empty code repository for DOI
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andres Felipe
+    family-names: Ramos Padilla
+    email: andres.ramos.padilla@rivm.nl
+    affiliation: >-
+      National Institute for Public Health and the
+      Environment
+    orcid: 'https://orcid.org/0000-0002-4561-2452'
+  - given-names: Jan
+    family-names: Janssen
+    affiliation: >-
+      National Institute for Public Health and the
+      Environment
+contact:
+  - email: non-existent@rivm.nl
+    name: "National Institute for Public Health and the Environment"
+identifiers:
+  - type: doi
+    value: 10.1234/fake.doi.1234
+    description: >-
+      Fake DOI assuming this will be replaced after
+      submission.
+repository-code: 'https://github.com/aframosp/newtest_empty'
+url: "https://github.com/aframosp/newtest_empty"
+abstract: This is a test repository
+keywords:
+  - test
+  - zenodo
+  - code
+license: MIT
+version: 0.0.1
