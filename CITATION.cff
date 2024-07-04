@@ -24,8 +24,7 @@ identifiers:
   - type: doi
     value: 10.1234/fake.doi.1234
     description: >-
-      Fake DOI assuming this will be replaced after
-      submission.
+      Fake DOI assuming this is related to another research output.
 repository-code: 'https://github.com/aframosp/newtest_empty'
 url: "https://github.com/aframosp/newtest_empty"
 abstract: This is a test repository
@@ -34,6 +33,6 @@ keywords:
   - zenodo
   - code
 license: MIT
-version: 0.0.2
+version: 0.0.3
 doi: 10.82290/ae42bc6f-7fce-43ef-8aea-5aae10a2591f
 date-released: 2024-04-10
