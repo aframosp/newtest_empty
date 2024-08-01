@@ -25,7 +25,6 @@ identifiers:
     value: 10.1234/fake.doi.1234
     description: >-
       Fake DOI assuming this is related to another research output.
-reference
 repository-code: 'https://github.com/aframosp/newtest_empty'
 url: "https://github.com/aframosp/newtest_empty"
 abstract: This is a test repository
