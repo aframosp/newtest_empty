@@ -36,12 +36,12 @@ license: MIT
 references:
   - authors:
       - name: "The Dependency Project"
-    date-released: "2021-07-26"
-    doi: 10.5281/zenodo.x1234567
+
     repository-code: "https://github.com/dependency-project/dependency"
     title: Checking what happens with a reference information
     type: software
     version: 0.13.4
 version: 0.0.5
-doi: 10.82290/e299b940-aceb-44f3-a7fc-902b2c918804
+
+doi: 10.82290/457617ec-31a2-41f2-ac9e-498b35d4f1c2
 date-released: 2024-08-01
