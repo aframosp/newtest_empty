@@ -25,6 +25,7 @@ identifiers:
     value: 10.1234/fake.doi.1234
     description: >-
       Fake DOI assuming this is related to another research output.
+reference
 repository-code: 'https://github.com/aframosp/newtest_empty'
 url: "https://github.com/aframosp/newtest_empty"
 abstract: This is a test repository
@@ -33,7 +34,15 @@ keywords:
   - zenodo
   - code
 license: MIT
-version: 0.0.4
-
+references:
+  - authors:
+      - name: "The Dependency Project"
+    date-released: "2021-07-26"
+    doi: 10.5281/zenodo.x1234567
+    repository-code: "https://github.com/dependency-project/dependency"
+    title: Checking what happens with a reference information
+    type: software
+    version: 0.13.4
+version: 0.0.5
 doi: 10.82290/e299b940-aceb-44f3-a7fc-902b2c918804
 date-released: 2024-08-01
