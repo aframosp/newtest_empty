@@ -36,12 +36,10 @@ license: MIT
 references:
   - authors:
       - name: "The Dependency Project"
-
     repository-code: "https://github.com/dependency-project/dependency"
     title: Checking what happens with a reference information
     type: software
     version: 0.13.4
 version: 0.0.5
-
-doi: 10.82290/457617ec-31a2-41f2-ac9e-498b35d4f1c2
-date-released: 2024-08-01
+doi: 10.82290/23d10744-3408-427e-9ee2-371530b71138
+date-released: 2024-08-15
